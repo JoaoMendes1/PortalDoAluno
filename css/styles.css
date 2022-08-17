@@ -11698,3 +11698,15 @@ input[type="submit"]:hover {
 #register-container p {
   margin-bottom: 10px;
 }
+
+/*===============================cor de fundo services======================*/
+.cor__fundo-services{
+  background-color: #0C4DA2;
+}
+
+.a,.cor__branca{
+  color: white;
+}
+
+
+
