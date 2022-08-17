@@ -11584,9 +11584,13 @@ footer.footer .social-link:hover {
 }
 
 body {
-  background-image: url('/assets/img/portfolio-2-2.png');
+  background-color: white;
   background-size: cover;
   background-position-y: -200px;
+}
+
+.fundo-login{
+  background-image: url('/assets/img/portfolio-2-2.png');
 }
 
 textarea:focus, input:focus{
