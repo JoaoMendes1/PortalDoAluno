@@ -599,8 +599,17 @@ progress {
 }
 
 .img-fluid {
+  text-align: center;
   max-width: 100%;
   height: auto;
+  
+}
+
+.img-fluid-calendar {
+  text-align: center;
+  max-width: 45%;
+  height: auto;
+  
 }
 
 .img-thumbnail {
@@ -11706,6 +11715,11 @@ input[type="submit"]:hover {
 
 .a,.cor__branca{
   color: white;
+}
+
+.img__calendar{
+  text-align: center;
+  width: 650px;
 }
 
 
